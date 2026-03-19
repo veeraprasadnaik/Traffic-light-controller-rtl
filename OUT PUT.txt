@@ -1,0 +1,36 @@
+RED    → GREEN → YELLOW → RED → repeat
+
+Timing example:
+
+Time	RED	YELLOW	GREEN
+0	1	0	0
+60	0	0	1
+120	0	1	0
+140	1	0	0
+ What You Will See in Vivado
+1️⃣ RTL Schematic
+
+Shows FSM blocks and connections.
+
+2️⃣ Elaborated Design
+
+Logical structure of modules.
+
+3️⃣ Synthesized Design
+
+Mapped to FPGA logic.
+
+4️⃣ Technology Schematic
+
+LUT + Flip-Flop implementation.
+
+5️⃣ Simulation Waveform
+
+Clock and signal transitions.
+
+6️⃣ FPGA Resource Utilization
+
+Example:
+
+LUTs Used : 5
+Flip-Flops: 6
