@@ -1,4 +1,5 @@
- 🚦 Traffic Light Controller using RTL (VLSI)
+
+  🚦 Traffic Light Controller using RTL (VLSI)
 📌 Repository Description
 
 A Traffic Light Controller designed using RTL (Register Transfer Level) in VLSI. This project implements a Finite State Machine (FSM) to control traffic signals (Red, Yellow, Green) with proper timing logic using Verilog/VHDL.
@@ -80,3 +81,4 @@ The transitions are controlled using a clock signal and state machine logic.
 👨‍💻 Author
 
 K Veera Prasad Naik ✨
+
